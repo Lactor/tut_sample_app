@@ -30,5 +30,5 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
-gem 'therubyracer', '0.11.0beta5'
-gem 'libv8', '~> 3.11.8'
+gem 'therubyracer', '0.12.0'
+gem 'libv8', '~> 3.16.14.3'
